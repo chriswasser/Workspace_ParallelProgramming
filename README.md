@@ -2,8 +2,8 @@
 
 ## `OpenMP` (Open Multi Processing): API for parallelizing programs on shared memory systems
 
-|Folder          |What it does                                                |New Features utilized                           |
-|--------------- |----------------------------------------------------------- |----------------------------------------------- |
+|Folder            |What it does                                                |New Features utilized                           |
+|----------------- |----------------------------------------------------------- |----------------------------------------------- |
 |`hello`           |Hello World for OpenMP                                      |OpenMP API usage                                |
 |`pi`              |Approximate pi by numerical integration                     |For worksharing, reduction, datascoping clauses |
 |`jacobi`          |Jacobi iterative solving method                             |Numa-Awareness                                  |
@@ -16,8 +16,8 @@
 
 ## `MPI` (Message Passing Interface): Standard for message passing in distributed memory systems
 
-|File                 |What it does                                                           |New Features utilized                  |
-|-------------------- |---------------------------------------------------------------------- |-------------------------------------- |
+|File                   |What it does                                                           |New Features utilized                  |
+|---------------------- |---------------------------------------------------------------------- |-------------------------------------- |
 |`array(2-4).c`         |Count occurance of numbers in a random array                           |MPI_Probe                              |
 |`bcast(2).c`           |Perform self-implemented broadcast                                     |MPI_Send, MPI_Recv                     |
 |`calcpi.c`             |Approximate pi by numerical integration                                |MPI_Reduce                             |
