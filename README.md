@@ -5,8 +5,8 @@
 |Folder          |What it does                                                |New Features utilized                           |
 |--------------- |----------------------------------------------------------- |----------------------------------------------- |
 |`hello`           |Hello World for OpenMP                                      |OpenMP API usage                                |
-|`pi              |Approximate pi by numerical integration                     |For worksharing, reduction, datascoping clauses |
-|`jacobi          |Jacobi iterative solving method                             |Numa-Awareness                                  |
+|`pi`              |Approximate pi by numerical integration                     |For worksharing, reduction, datascoping clauses |
+|`jacobi`          |Jacobi iterative solving method                             |Numa-Awareness                                  |
 |`fibonacci       |Recursive fibonacci                                         |Tasking                                         |
 |`for`             |Add up a sum                                                |Schedule clause                                 |
 |`minmaxreduction` |Find min / max of a random array                            |Min / Max reduction operation                   |
