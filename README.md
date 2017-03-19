@@ -7,7 +7,7 @@
 |`hello`           |Hello World for OpenMP                                      |OpenMP API usage                                |
 |`pi`              |Approximate pi by numerical integration                     |For worksharing, reduction, datascoping clauses |
 |`jacobi`          |Jacobi iterative solving method                             |Numa-Awareness                                  |
-|`fibonacci       |Recursive fibonacci                                         |Tasking                                         |
+|`fibonacci`       |Recursive fibonacci                                         |Tasking                                         |
 |`for`             |Add up a sum                                                |Schedule clause                                 |
 |`minmaxreduction` |Find min / max of a random array                            |Min / Max reduction operation                   |
 |`quicksort`       |Perform recursive quicksort on a random array               |Tasking                                         |
