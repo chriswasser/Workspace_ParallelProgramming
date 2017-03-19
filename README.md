@@ -2,17 +2,17 @@
 
 ## `OpenMP` (Open Multi Processing): API for parallelizing programs on shared memory systems
 
-|Folder            |What it does                                                |New Features utilized                           |
-|----------------- |----------------------------------------------------------- |----------------------------------------------- |
-|`hello`           |Hello World for OpenMP                                      |OpenMP API usage                                |
-|`pi`              |Approximate pi by numerical integration                     |For worksharing, reduction, datascoping clauses |
-|`jacobi`          |Jacobi iterative solving method                             |Numa-Awareness                                  |
-|`fibonacci`       |Recursive fibonacci                                         |Tasking                                         |
-|`for`             |Add up a sum                                                |Schedule clause                                 |
-|`minmaxreduction` |Find min / max of a random array                            |Min / Max reduction operation                   |
-|`quicksort`       |Perform recursive quicksort on a random array               |Tasking                                         |
-|`primes`          |Find all primes up to a given threshold                     |Critical region                                 |
-|`mandelbrot`      |Calculate the mandelbrot set and output result as a picture |Datascoping                                     |
+| Folder            | What it does                                                | New Features utilized                           |
+| ----------------- | ----------------------------------------------------------- | ----------------------------------------------- |
+|`hello`           | Hello World for OpenMP                                      | OpenMP API usage                                |
+|`pi`              | Approximate pi by numerical integration                     | For worksharing, reduction, datascoping clauses |
+|`jacobi`          | Jacobi iterative solving method                             | Numa-Awareness                                  |
+|`fibonacci`       | Recursive fibonacci                                         | Tasking                                         |
+|`for`             | Add up a sum                                                | Schedule clause                                 |
+|`minmaxreduction` | Find min / max of a random array                            | Min / Max reduction operation                   |
+|`quicksort`       | Perform recursive quicksort on a random array               | Tasking                                         |
+|`primes`          | Find all primes up to a given threshold                     | Critical region                                 |
+|`mandelbrot`      | Calculate the mandelbrot set and output result as a picture | Datascoping                                     |
 
 ## `MPI` (Message Passing Interface): Standard for message passing in distributed memory systems
 
